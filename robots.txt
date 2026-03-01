@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nk3750.github.io/ashima-portfolio/sitemap.xml
+Sitemap: https://ashima441.github.io/ashima-portfolio/sitemap.xml
