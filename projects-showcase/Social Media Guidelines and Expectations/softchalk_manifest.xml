@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lesson>
+<id>1644938273681</id>
+<number_of_pages>10</number_of_pages>
+<lessonrevisionnumber>323</lessonrevisionnumber>
+<points>100</points>
+<name urlencoding="UTF-8"><![CDATA[Social+media+guidelines]]></name>
+<style_name>1b265a8f37624803ae188fdadbd80d3a</style_name>
+<style_id></style_id>
+<style_type>default</style_type>
+<style_has_custom_popups>false</style_has_custom_popups>
+<scoreditems>
+  <quizgroup>
+  <id>quizgroupwrapper2</id>
+  <retry>true</retry>
+  <points>12</points>
+  <position>3</position>
+  <page>4</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper4</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>4</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[Before+creating+any+account+you+do+not+have+to+think+about+the+time+and+commitment+you+need+to+make%2C+you+can+just+start+by+creating+an+account.]]></question>
+    <choices>
+      <choice>
+        <id>q4a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q4b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper5</id>
+    <type>6</type>
+    <points>8</points>
+    <retry>true</retry>
+    <position>5</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[Put+the+items+in+the+correct+order.]]></question>
+    <choices>
+      <choice>
+        <id>q5_2</id>
+        <position>1</position>
+        <text urlencoding="UTF-8"><![CDATA[Think+about+the+commitment+that+needs+to+be+made.]]></text>
+      </choice>
+      <choice>
+        <id>q5_1</id>
+        <position>2</position>
+        <text urlencoding="UTF-8"><![CDATA[Secure+approval+from+your+Vice+President+or+Cabinet+Member.]]></text>
+      </choice>
+      <choice>
+        <id>q5_4</id>
+        <position>3</position>
+        <text urlencoding="UTF-8"><![CDATA[Submit+the+Social+Media+Registration+Form.]]></text>
+      </choice>
+      <choice>
+        <id>q5_3</id>
+        <position>4</position>
+        <text urlencoding="UTF-8"><![CDATA[Create+a+plan+for+the+account.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper12</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>6</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[The+maintenance+of+social+media+account%28s%29+is+not+time-consuming%2C+so+you+do+not+have+to+think+about+the+time+and+commitment.]]></question>
+    <choices>
+      <choice>
+        <id>q12a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q12b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper3</id>
+  <retry>true</retry>
+  <points>22</points>
+  <position>7</position>
+  <page>4</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper6</id>
+    <type>3</type>
+    <points>16</points>
+    <retry>true</retry>
+    <position>8</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[For+moderating+accounts+in+social+media%2C+do+not+delete+comments+as+a+way+of+resolving+the+issue.+But%2C+you+can+delete%2C+hide+or+block+comments+that+are%3A]]></question>
+    <choices>
+      <choice>
+        <id>q6a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[incite+violence+or+otherwise+discriminatory+or+harassing.]]></text>
+      </choice>
+      <choice>
+        <id>q6b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[repeatedly+irrelevant+to+the+university.]]></text>
+      </choice>
+      <choice>
+        <id>q6c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[are+obscene+or+defamatory.]]></text>
+      </choice>
+      <choice>
+        <id>q6d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[contradictory+to+University+Policies]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper7</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>9</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[Inactive+accounts+reflect+poorly+on+the+university.+It+can+also+be+confusing+if+a+department+or+organization+has+both+active+and+inactive+accounts.+When+people+are+searching+for+you+on+social+media%2C+they+may+only+find+the+inactive+account%28s%29.]]></question>
+    <choices>
+      <choice>
+        <id>q7a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q7b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper8</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>10</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[Securing+proper+permissions+before+using+photos%2C+videos%2C+and+music+with+your+posts+is+not+necessary.]]></question>
+    <choices>
+      <choice>
+        <id>q8a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q8b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper13</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>11</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[All+new+or+old+social+media+accounts+affiliated+with+Indiana+State+University+must+be+registered.+As+part+of+the+registration+process%2C+it+is+required+that+you+provide+the+name%2C+phone+number+and+email+address+for+the+account+manager+and+a+backup+manager%28s%29%2C+as+well+as+account+information.]]></question>
+    <choices>
+      <choice>
+        <id>q13a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q13b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper4</id>
+  <retry>true</retry>
+  <points>20</points>
+  <position>14</position>
+  <page>7</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper14</id>
+    <type>3</type>
+    <points>16</points>
+    <retry>true</retry>
+    <position>15</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[Keeping+social+media+accessible+means%3A]]></question>
+    <choices>
+      <choice>
+        <id>q14a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[presenting+information+in+the+clearest+ways+possible.]]></text>
+      </choice>
+      <choice>
+        <id>q14b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[learning+from+your+followers.]]></text>
+      </choice>
+      <choice>
+        <id>q14c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[ensure+that+posts+are+not+inclusive+to+all+individuals.]]></text>
+      </choice>
+      <choice>
+        <id>q14d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[developed+so+that+people+with+disabilities+can+use+it.]]></text>
+      </choice>
+      <choice>
+        <id>q14e</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[recognizing+exclusion.]]></text>
+      </choice>
+      <choice>
+        <id>q14f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[closed+captioning+must+be+available.]]></text>
+      </choice>
+      <choice>
+        <id>q14g</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[avoiding+long+strings+of+emojis.]]></text>
+      </choice>
+      <choice>
+        <id>q14h</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[alternating+each+word+with+an+emoji.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper15</id>
+    <type>1</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>16</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[To+ensure+that+your+social+media+texts+are+accessible+for+people+with+disabilities%3A]]></question>
+    <choices>
+      <choice>
+        <id>q15a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+needs+to+have+accurate+captions.]]></text>
+      </choice>
+      <choice>
+        <id>q15b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+needs+to+be+free+of+acronyms%2C+jargons+and+abbreviations.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper16</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>17</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[To+make+your+social+media+photo+accessible%2C+an+alternate+text+needs+to+be+added+for+the+image+if+the+platform+supports+it%2C+or+the+photo+description+should+be+included+at+the+end+of+the+post+if+the+platform+does+not+support+alt+text.]]></question>
+    <choices>
+      <choice>
+        <id>q16a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q16b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper5</id>
+  <retry>true</retry>
+  <points>12</points>
+  <position>18</position>
+  <page>8</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper19</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>19</position>
+    <page>8</page>
+    <question urlencoding="UTF-8"><![CDATA[The+given+image+below+is+a+correct+form+to+post+in+social+media.]]></question>
+    <choices>
+      <choice>
+        <id>q19a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q19b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper20</id>
+    <type>1</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>20</position>
+    <page>8</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+image+along+with+its+texts+below+is+the+best+to+post+in+social+media%3F]]></question>
+    <choices>
+      <choice>
+        <id>q20a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[]]></text>
+      </choice>
+      <choice>
+        <id>q20b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper21</id>
+    <type>5</type>
+    <points>4</points>
+    <retry>true</retry>
+    <position>21</position>
+    <page>8</page>
+    <question urlencoding="UTF-8"><![CDATA[Match+the+items.]]></question>
+    <choices>
+      <choice>
+        <targetid>q21a</targetid>
+        <textid>q21_1</textid>
+        <text urlencoding="UTF-8"><![CDATA[Correct]]></text>
+        <target urlencoding="UTF-8"><![CDATA[]]></target>
+        <value urlencoding="UTF-8"><![CDATA[b]]></value>
+      </choice>
+      <choice>
+        <targetid>q21b</targetid>
+        <textid>q21_2</textid>
+        <text urlencoding="UTF-8"><![CDATA[Incorrect]]></text>
+        <target urlencoding="UTF-8"><![CDATA[]]></target>
+        <value urlencoding="UTF-8"><![CDATA[a]]></value>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper22</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>22</position>
+    <page>8</page>
+    <question urlencoding="UTF-8"><![CDATA[This+post+below+is+a+correct+form+of+posting+in+social+media.]]></question>
+    <choices>
+      <choice>
+        <id>q22a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q22b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper23</id>
+    <type>3</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>23</position>
+    <page>8</page>
+    <question urlencoding="UTF-8"><![CDATA[Look+at+the+post+below+and+select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q23a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+texts+are+easy+to+read.]]></text>
+      </choice>
+      <choice>
+        <id>q23b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+image+does+not+match+the+text.]]></text>
+      </choice>
+      <choice>
+        <id>q23c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+post+needs+more+information.]]></text>
+      </choice>
+      <choice>
+        <id>q23d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+post+states+its+purpose+clearly.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizpopper>
+    <id>quizpopper1</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>1</position>
+    <page>2</page>
+    <question urlencoding="UTF-8"><![CDATA[As+part+of+the+University%27s+Social+Media+Guidelines+and+Expectations%2C+departments+and+units+are+asked+to+complete+the+Social+Media+Account+Registration+Form+prior+to+starting+a+social+media+account.]]></question>
+    <choices>
+      <choice>
+        <id>q1a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q1b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper2</id>
+    <type>3</type>
+    <points>20</points>
+    <retry>true</retry>
+    <position>2</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[In+the+administration+of+the+account%2C+ISU+employees+and+units+must+comply+with+which+of+the+the+following%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q2a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[University+accounts+must+not+post+about+or+comment+on+political+issues+but+can+post+about+personal+life.]]></text>
+      </choice>
+      <choice>
+        <id>q2b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Posts+should+not+include+obscenity%2C+copyright+infringement%2C+libel%2C+and+threats]]></text>
+      </choice>
+      <choice>
+        <id>q2c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[University+regulations%2C+policies%2C+and+procedures+which+dictate+appropriate+and+expected+behavior.]]></text>
+      </choice>
+      <choice>
+        <id>q2d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Post+only+public+information.+Proprietary+or+confidential+information%2C+personal+and%2For+private+information+about+Indiana+State+University%2C+staff%2C+and+students+cannot+be+posted+on+social+media]]></text>
+      </choice>
+      <choice>
+        <id>q2e</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Read%2C+obey%2C+and+comply+with+the+Terms+of+Service+and+community+guidelines+on+all+social+media+platforms%2C+e.g.+Facebook+community+standards.]]></text>
+      </choice>
+      <choice>
+        <id>q2f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Personnel+issues+should+not+be+discussed+on+social+media.]]></text>
+      </choice>
+      <choice>
+        <id>q2g</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+Indiana+State+logos+can+be+used+by+a+department+or+unit+for+official+social+media+presence%2C+and+you+do+not+have+to+seek+approval+from+University+Marketing+prior+to+use.]]></text>
+      </choice>
+      <choice>
+        <id>q2h</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[University-owned+computers%2C+tablets%2C+and+devices+are+reserved+for+university-related+business.]]></text>
+      </choice>
+      <choice>
+        <id>q2i</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Social+media+administrators+can+share+the+information+from+University+Communication%27s+social+media+platforms.]]></text>
+      </choice>
+      <choice>
+        <id>q2j</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Do+not+report+inappropriate+posts+or+accounts+with+university-related+information+to+University+Marketing+and+University+Communication.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper11</id>
+    <type>5</type>
+    <points>10</points>
+    <retry>true</retry>
+    <position>12</position>
+    <page>5</page>
+    <question urlencoding="UTF-8"><![CDATA[Match+the+items+and+form+correct+sentences.]]></question>
+    <choices>
+      <choice>
+        <targetid>q11a</targetid>
+        <textid>q11_1</textid>
+        <text urlencoding="UTF-8"><![CDATA[Check+for+mistakes+and+typos+such+as+proper+grammar%2C+spelling%2C+and+punctuation]]></text>
+        <target urlencoding="UTF-8"><![CDATA[before+and+after+publication.]]></target>
+        <value urlencoding="UTF-8"><![CDATA[d]]></value>
+      </choice>
+      <choice>
+        <targetid>q11b</targetid>
+        <textid>q11_2</textid>
+        <text urlencoding="UTF-8"><![CDATA[Be+respectful]]></text>
+        <target urlencoding="UTF-8"><![CDATA[of+fans%2C+followers%2C+and+those+you+engage+with+online.]]></target>
+        <value urlencoding="UTF-8"><![CDATA[c]]></value>
+      </choice>
+      <choice>
+        <targetid>q11c</targetid>
+        <textid>q11_3</textid>
+        <text urlencoding="UTF-8"><![CDATA[Be+careful]]></text>
+        <target urlencoding="UTF-8"><![CDATA[what+you+post.]]></target>
+        <value urlencoding="UTF-8"><![CDATA[b]]></value>
+      </choice>
+      <choice>
+        <targetid>q11d</targetid>
+        <textid>q11_4</textid>
+        <text urlencoding="UTF-8"><![CDATA[Be+aware+that+as+a+member+of+the+community%2C]]></text>
+        <target urlencoding="UTF-8"><![CDATA[people+may+judge+your+work+and+the+university+by+what+you+say.]]></target>
+        <value urlencoding="UTF-8"><![CDATA[e]]></value>
+      </choice>
+      <choice>
+        <targetid>q11e</targetid>
+        <textid>q11_5</textid>
+        <text urlencoding="UTF-8"><![CDATA[Promote+your+department%27s+social+media+account+by]]></text>
+        <target urlencoding="UTF-8"><![CDATA[talking+about+it+at+events+you+host%2C+or+linking+it+to+your+website.]]></target>
+        <value urlencoding="UTF-8"><![CDATA[a]]></value>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper10</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>13</position>
+    <page>6</page>
+    <question urlencoding="UTF-8"><![CDATA[Failure+to+comply+with+the+university+guidelines+and+expectations+will+result+in+cancellation+of+rights+to+use+university-related+social+media.]]></question>
+    <choices>
+      <choice>
+        <id>q10a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q10b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+</scoreditems>
+<nonscoreditems>
+  <quizpopper>
+    <id>quizpopper9</id>
+    <type>8</type>
+    <points>0</points>
+    <retry>true</retry>
+    <position>24</position>
+    <page>10</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+your+overall+impression+of+this+lesson%3F+Was+it+useful%3F+What+are+the+strengths+of+it%3F+What+are+the+weaknesses+of+this+lesson%3F+What+would+you+change+to+make+it+more+effective%3F]]></question>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+</nonscoreditems>
+<inlinemedia>
+  <inlineobject>
+    <id>inlinemedia31</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Correct+form+3.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia30</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[not+3.PNG]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia14</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[sign-ga4d5d1e95_1920.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia13</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[MaxPixel.net-Internet-Networking-Marketing-Facebook-Social-Media-6231355.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia12</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[social-media-social-media-social-media-marketing-social-networking-business-1587349-pxhere.com.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia11</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Photography+in+Normal+Hall.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia28</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Correct+form.PNG]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia10</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia26</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Incorrect+form+1.PNG]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia25</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Correct+form+2.PNG]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia24</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Incorrect+form.PNG]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia22</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[6460582547_1afb1f97a4_c.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia20</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[social-media-accounts.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia34</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Correct+form+1.1.PNG]]></dc:title>
+</metadata>
+  </inlineobject>
+</inlinemedia>
+<ContentItems xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <ContentItem>
+        <dc:description urlencoding="UTF-8">Lesson+created+by+SoftChalk</dc:description>
+        <dc:title urlencoding="UTF-8"><![CDATA[Social+Media+Guidelines+and+Expectations]]></dc:title>
+        <dc:creator urlencoding="UTF-8"/>
+        <dc:license>Attribution Non-commercial Share Alike</dc:license>
+        <SubTitle urlencoding="UTF-8"><![CDATA[Indiana+State+University]]></SubTitle>
+        <TotalPoints>100</TotalPoints>
+        <Language urlencoding="UTF-8">English</Language>
+        <NumberOfPages>10</NumberOfPages>
+        <MainFileName>lesson</MainFileName>
+        <LessonStructureVersion>11.04.04</LessonStructureVersion>
+        <CreatorFirstName urlencoding="UTF-8"/>
+        <CreatorLastName urlencoding="UTF-8"/>
+        <CreatorOrganization urlencoding="UTF-8"/>
+        <CreatorEmail urlencoding="UTF-8"/>
+    </ContentItem>
+</ContentItems>
+</lesson>

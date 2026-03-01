@@ -1,0 +1,11 @@
+{
+  "publicPath": "./interactives/",
+  "js": [
+    "./interactives/static/js/runtime.js",
+    "./interactives/static/js/polyfills.js",
+    "./interactives/static/js/main.js"
+  ],
+  "css": [
+    "./interactives/static/css/main.css"
+  ]
+}

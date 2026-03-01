@@ -1,0 +1,27 @@
+! SoftChalk LessonBuilder
+! ================ DO NOT EDIT ================
+
+act_item=1
+
+act_num=1
+act_type=8
+items=10
+showList=false
+showFlashCardTerm=true
+showFlashCardDef=false
+useFlashBigText=false
+hideActivityBackground=false
+instructions=Click the card deck to view a card. Drag the card from the bottom to the correct category.
+minimumDuration=5
+inline=false
+catagory_1=Typical Trait of Generation X
+catagory_2=Typical Trait of Generation Y
+catagory_3=Typical Trait of Generation Z
+points=4
+showRestart=true
+showTitle=true
+sqrsize=18
+adaDescription=
+hotspotWidth=450
+hotspotHeight=500
+iconPosition=1

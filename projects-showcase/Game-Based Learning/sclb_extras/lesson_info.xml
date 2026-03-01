@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lesson>
+  <pagenames>
+    <pagename>
+      <pagenumber>1</pagenumber>
+      <navname>Introduction on Game-Based Learning</navname>
+    </pagename>
+    <pagename>
+      <pagenumber>2</pagenumber>
+      <navname>Benefits of GBL</navname>
+    </pagename>
+    <pagename>
+      <pagenumber>3</pagenumber>
+      <navname>Examples of GBL</navname>
+    </pagename>
+    <pagename>
+      <pagenumber>4</pagenumber>
+      <navname>How to Implement GBL in classroom?</navname>
+    </pagename>
+    <pagename>
+      <pagenumber>5</pagenumber>
+      <navname>Designing and Developing GBL</navname>
+    </pagename>
+    <pagename>
+      <pagenumber>6</pagenumber>
+      <navname>Final Assesment</navname>
+    </pagename>
+    <pagename>
+      <pagenumber>7</pagenumber>
+      <navname>Feedback</navname>
+    </pagename>
+    <pagename>
+      <pagenumber>0</pagenumber>
+      <navname>Overview</navname>
+    </pagename>
+  </pagenames>
+  <inlineObjects obj_item="24">
+    <inlineObject>
+      <objType>1</objType>
+      <objNum>17</objNum>
+      <src>E005_10mt_matera_teacher.mp3</src>
+      <width>0</width>
+      <height>0</height>
+      <description>5 IDEAS FOR USING GAME-BASED LEARNING IN YOUR CLASSROOM TODAY</description>
+      <webMovie/>
+      <widget/>
+      <widgetName/>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption/>
+      <marginTop/>
+      <marginBottom/>
+      <marginLeft/>
+      <marginRight/>
+      <floated/>
+    </inlineObject>
+    <inlineObject>
+      <objType>7</objType>
+      <objNum>7</objNum>
+      <src/>
+      <width>0</width>
+      <height>0</height>
+      <description/>
+      <webMovie/>
+      <widget>&lt;iframe height="349" width="425" src="https://www.youtube.com/embed/Uj_8C2L9bXI?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</widget>
+      <widgetName>What is game-based learning?</widgetName>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption/>
+      <marginTop/>
+      <marginBottom/>
+      <marginLeft/>
+      <marginRight/>
+      <floated/>
+    </inlineObject>
+    <inlineObject>
+      <objType>7</objType>
+      <objNum>10</objNum>
+      <src/>
+      <width>0</width>
+      <height>0</height>
+      <description/>
+      <webMovie/>
+      <widget>&lt;iframe height="349" width="425" frameborder="0" src="https://www.youtube.com/embed/0WlP8NNo4CU?rel=0" allowfullscreen&gt;&lt;/iframe&gt;</widget>
+      <widgetName>Using Game-based Learning in the Classroom to Develop Productive Struggle</widgetName>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption/>
+      <marginTop/>
+      <marginBottom/>
+      <marginLeft/>
+      <marginRight/>
+      <floated/>
+    </inlineObject>
+    <inlineObject>
+      <objType>11</objType>
+      <objNum>16</objNum>
+      <src>game-based-learning.png</src>
+      <width>877</width>
+      <height>1169</height>
+      <description/>
+      <webMovie/>
+      <widget/>
+      <widgetName/>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption>GameBased Learning Quick Notes</imageCaption>
+      <marginTop>0</marginTop>
+      <marginBottom>0</marginBottom>
+      <marginLeft>0</marginLeft>
+      <marginRight>20</marginRight>
+      <floated>left</floated>
+    </inlineObject>
+    <inlineObject>
+      <objType>11</objType>
+      <objNum>11</objNum>
+      <src>sketch-note-game-based-learning.png</src>
+      <width>1920</width>
+      <height>1080</height>
+      <description/>
+      <webMovie/>
+      <widget/>
+      <widgetName/>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption>Reasons to use game-based learning</imageCaption>
+      <marginTop>0</marginTop>
+      <marginBottom>0</marginBottom>
+      <marginLeft>20</marginLeft>
+      <marginRight>20</marginRight>
+      <floated/>
+    </inlineObject>
+    <inlineObject>
+      <objType>11</objType>
+      <objNum>2</objNum>
+      <src>4 page 1.jpg</src>
+      <width>756</width>
+      <height>567</height>
+      <description/>
+      <webMovie/>
+      <widget/>
+      <widgetName/>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption>Hand-Eye Coordination</imageCaption>
+      <marginTop>0</marginTop>
+      <marginBottom>0</marginBottom>
+      <marginLeft>0</marginLeft>
+      <marginRight>20</marginRight>
+      <floated>left</floated>
+    </inlineObject>
+    <inlineObject>
+      <objType>11</objType>
+      <objNum>24</objNum>
+      <src>24339798493_744392cfea_o (2).png</src>
+      <width>439</width>
+      <height>800</height>
+      <description/>
+      <webMovie/>
+      <widget/>
+      <widgetName/>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption>Pedagogy First, Technology Second</imageCaption>
+      <marginTop>0</marginTop>
+      <marginBottom>0</marginBottom>
+      <marginLeft>0</marginLeft>
+      <marginRight>20</marginRight>
+      <floated>left</floated>
+    </inlineObject>
+    <inlineObject>
+      <objType>11</objType>
+      <objNum>20</objNum>
+      <src>Fun Brain.png</src>
+      <width>800</width>
+      <height>314</height>
+      <description/>
+      <webMovie/>
+      <widget/>
+      <widgetName/>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption/>
+      <marginTop>0</marginTop>
+      <marginBottom>0</marginBottom>
+      <marginLeft>0</marginLeft>
+      <marginRight>0</marginRight>
+      <floated>right</floated>
+    </inlineObject>
+    <inlineObject>
+      <objType>11</objType>
+      <objNum>19</objNum>
+      <src>Common Sense Education.PNG</src>
+      <width>275</width>
+      <height>185</height>
+      <description/>
+      <webMovie/>
+      <widget/>
+      <widgetName/>
+      <mathML/>
+      <frameborder>1</frameborder>
+      <scrolling>auto</scrolling>
+      <imageCaption/>
+      <marginTop>0</marginTop>
+      <marginBottom>0</marginBottom>
+      <marginLeft>0</marginLeft>
+      <marginRight>0</marginRight>
+      <floated>right</floated>
+    </inlineObject>
+  </inlineObjects>
+  <general>
+    <LessonVersion>11.03.09</LessonVersion>
+    <PasteImageNum>1</PasteImageNum>
+    <MainFileName>lesson</MainFileName>
+    <LessonTitle><![CDATA[Game-Based Learning]]></LessonTitle>
+    <LessonTitle2><![CDATA[Digital Game-Based Learning Lessons]]></LessonTitle2>
+    <LessonRevisionNumber>159</LessonRevisionNumber>
+    <LessonDescription/>
+    <opTopTitle>Course Overview</opTopTitle>
+    <opTopContent>&lt;p&gt;This lesson is for teachers who are interested in implementing digital game-based learning in their classroom. The purpose of this lesson is to design a learning activity that uses digital game-based strategies to deepen student engagement and learning in the classroom.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Lesson Objectives:&lt;/p&gt;&lt;p&gt;1. Evaluate the usage of digital game-based learning practices in a classroom.&lt;/p&gt;&lt;p&gt;2. Create a digital game-based activity for your educational environment.&lt;/p&gt;&lt;p&gt;3. Create a lesson plan for implementing any digital game-based learning approach for your classroom.&lt;/p&gt;</opTopContent>
+    <opBottomTitle/>
+    <opBottomContent/>
+    <opStartButton>Start Lesson</opStartButton>
+    <FootThree><![CDATA[<p>Created by Ashima Sitaula with <a target="_blank" href="https://www.softchalk.com">SoftChalk</a></p>]]></FootThree>
+    <SchoolName/>
+    <EmailAddress/>
+    <certCertificate/>
+    <certCompleted/>
+    <certLessonTitle/>
+    <certLessonSubtitle/>
+    <certOfferedBy/>
+    <CEUs/>
+    <PrintCert>false</PrintCert>
+    <PrintSummary>false</PrintSummary>
+    <EmailResults>false</EmailResults>
+    <PassPercent>70</PassPercent>
+    <CustomStyleName><![CDATA[Cobalt banner]]></CustomStyleName>
+    <sidebarSide>1</sidebarSide>
+    <FootCopyright>false</FootCopyright>
+    <PageNav>false</PageNav>
+    <FootDate>true</FootDate>
+    <TOCSidebar>true</TOCSidebar>
+    <TOCNavbar>true</TOCNavbar>
+    <TocInOverview>true</TocInOverview>
+    <TOCEntry>true</TOCEntry>
+    <PrevNextArrows>true</PrevNextArrows>
+    <IncludeBottomNav>true</IncludeBottomNav>
+    <VersionExtension/>
+    <FileOpenerType>11</FileOpenerType>
+    <LanguageOut>English</LanguageOut>
+    <PrintAll>true</PrintAll>
+    <TimeStamp>1571625893116</TimeStamp>
+    <SingleTry>true</SingleTry>
+    <ScormComStatus>true</ScormComStatus>
+    <Creator/>
+    <TotalLessonPoints>100</TotalLessonPoints>
+    <NumPages>7</NumPages>
+    <PlayActFeedback>true</PlayActFeedback>
+    <UseMasteryScore>false</UseMasteryScore>
+    <MasteryScoreValue>0</MasteryScoreValue>
+    <BBLinkText><![CDATA[Click to view]]></BBLinkText>
+    <BBItemName/>
+    <Visible>true</Visible>
+    <TrackNumViews>false</TrackNumViews>
+    <NavControlType>flow</NavControlType>
+    <AddToGradebook>true</AddToGradebook>
+    <FirstAttemptOnly>true</FirstAttemptOnly>
+    <PointsPossible>0</PointsPossible>
+    <LaunchInNewWindow>true</LaunchInNewWindow>
+    <CloudAccessType>0</CloudAccessType>
+    <CloudAllowViewing>false</CloudAllowViewing>
+    <CloudMaxAttempts>-1</CloudMaxAttempts>
+    <CloudScoringOption>first</CloudScoringOption>
+    <CloudScoreCenterUser/>
+    <ScoreCenterHost>https://softchalkcloud.com</ScoreCenterHost>
+    <SidebarWidth>25%</SidebarWidth>
+    <sidebarAlwaysOpen>false</sidebarAlwaysOpen>
+    <displaySidebar>true</displaySidebar>
+    <layout>Horizontal</layout>
+    <tocSidebarExpanded>true</tocSidebarExpanded>
+    <tocOverviewExpanded>false</tocOverviewExpanded>
+    <usePageAnimation>true</usePageAnimation>
+    <tocHOne>false</tocHOne>
+    <tocHTwo>false</tocHTwo>
+    <showScore>true</showScore>
+  </general>
+</lesson>

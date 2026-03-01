@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lesson>
+<id>1583317612223</id>
+<number_of_pages>8</number_of_pages>
+<lessonrevisionnumber>157</lessonrevisionnumber>
+<points>100</points>
+<name urlencoding="UTF-8"><![CDATA[Online+Teaching+Certificate+Program]]></name>
+<style_name>1b265a8f37624803ae188fdadbd80d3a</style_name>
+<style_id></style_id>
+<style_type>default</style_type>
+<style_has_custom_popups>false</style_has_custom_popups>
+<scoreditems>
+  <quizgroup>
+  <id>quizgroupwrapper1</id>
+  <retry>false</retry>
+  <points>14</points>
+  <position>1</position>
+  <page>2</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper2</id>
+    <type>3</type>
+    <points>6</points>
+    <retry>true</retry>
+    <position>2</position>
+    <page>2</page>
+    <question urlencoding="UTF-8"><![CDATA[What+are+some+of+the+Traits+of+Gen+Xers%3F+Choose+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q2a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Competent+with+technology+but+prefer+communications+via+email+and+phone.]]></text>
+      </choice>
+      <choice>
+        <id>q2b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Rarely+defy+authority+and+micromanagers.]]></text>
+      </choice>
+      <choice>
+        <id>q2c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Driven+by+reality+of+how+a+course+will+help+them+in+the+real+world.]]></text>
+      </choice>
+      <choice>
+        <id>q2d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Resourceful+problem+solvers.]]></text>
+      </choice>
+      <choice>
+        <id>q2e</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Loyal+to+individuals%2C+not+organizations.]]></text>
+      </choice>
+      <choice>
+        <id>q2f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Entrepreneurial+thinkers.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper3</id>
+    <type>3</type>
+    <points>6</points>
+    <retry>true</retry>
+    <position>3</position>
+    <page>2</page>
+    <question urlencoding="UTF-8"><![CDATA[Jane+was+born+in+1972.+She+is+one+of+the+adult+learners+in+your+classroom.+Which+of+the+following+tips+would+you+apply+to+your+teaching+to+meet+her+needs%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q3a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Use+games+and+case+studies+in+the+classroom]]></text>
+      </choice>
+      <choice>
+        <id>q3b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Connect+assignments+to+real+world+situations]]></text>
+      </choice>
+      <choice>
+        <id>q3c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Provide+vague+instructions+for+assignments+and+activities+and+let+Jane+figure+out+what+to+do.]]></text>
+      </choice>
+      <choice>
+        <id>q3d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Add+brief+opportunities+for+her+to+reflect+on+her+learning]]></text>
+      </choice>
+      <choice>
+        <id>q3e</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[When+group+work+is+required%2C+let+students+get+started+without+explaining+the+rationale+and+benefits+of+such+activities]]></text>
+      </choice>
+      <choice>
+        <id>q3f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Provide+opportunities+for+individual+work]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper4</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>4</position>
+    <page>2</page>
+    <question urlencoding="UTF-8"><![CDATA[One+of+the+learning+preference+that+Gen+Xers+like+is+engaging+in+direct+or+immediate+communication+through+emails+and+phone+conversations.]]></question>
+    <choices>
+      <choice>
+        <id>q4a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q4b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper2</id>
+  <retry>false</retry>
+  <points>16</points>
+  <position>5</position>
+  <page>3</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper21</id>
+    <type>10</type>
+    <points>3</points>
+    <retry>true</retry>
+    <position>6</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[If+you+were+born+near+the+end+of+one+generation+and+at+the+beginning+of+the+next%2C+and+you+feel+that+you+have+a+mix+of+characteristics+of+both+adjacent+generations+but+don%27t+resemble+the+typical+traits+of+the+middle+of+the+adjacent+generations%2C+you+might+be+a+%5BCusper%5D.]]></question>
+    <choices>
+      <choice>
+        <id>q21_1</id>
+        <casesensitive>true</casesensitive>
+        <ref urlencoding="UTF-8"><![CDATA[Cusper]]></ref>
+        <answers>
+          <answer>
+            <correct>true</correct>
+            <text urlencoding="UTF-8"><![CDATA[Cusper]]></text>
+          </answer>
+          <answer>
+            <correct>false</correct>
+            <text urlencoding="UTF-8"><![CDATA[cusper]]></text>
+          </answer>
+        </answers>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper5</id>
+    <type>1</type>
+    <points>3</points>
+    <retry>true</retry>
+    <position>7</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+the+most+common+name+for+Generation+Y%3F+Select+the+best+possible+answer.]]></question>
+    <choices>
+      <choice>
+        <id>q5a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Generation+Us]]></text>
+      </choice>
+      <choice>
+        <id>q5b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Internet+Generation]]></text>
+      </choice>
+      <choice>
+        <id>q5c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Millennials]]></text>
+      </choice>
+      <choice>
+        <id>q5d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Leave+No+One+Behind]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper7</id>
+    <type>3</type>
+    <points>6</points>
+    <retry>true</retry>
+    <position>8</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[You+are+asked+to+teach+a+class+and+recognize+that+most+students+are+Millennials.+What+are+some+of+the+common+traits+of+Millennials+that+may+influence+how+you+adjust+your+teaching+strategies%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q7a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Most+students+are+highly+visual+learners+who+also+like+humor.]]></text>
+      </choice>
+      <choice>
+        <id>q7b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Students+expect+immediate+feedback+to+know+that+they+are+on+the+right+track.]]></text>
+      </choice>
+      <choice>
+        <id>q7c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Students+have+short+attention+span+and+are+easily+distracted+by+social+media+and+notifications.]]></text>
+      </choice>
+      <choice>
+        <id>q7d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Students+are+team-oriented+and+enjoy+collaborating+with+others.]]></text>
+      </choice>
+      <choice>
+        <id>q7e</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Students+like+to+sacrifice+their+personal+life.]]></text>
+      </choice>
+      <choice>
+        <id>q7f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+use+technology+throughout+the+day+to+remain+connected+to+the+world+and+one+another]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper8</id>
+    <type>3</type>
+    <points>4</points>
+    <retry>true</retry>
+    <position>9</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[What+are+some+of+the+learning+preferences+of+Generation+Y%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q8a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Extremely+team-oriented+and+enjoy+collaborating+and+building+friendships+with+colleagues.]]></text>
+      </choice>
+      <choice>
+        <id>q8b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+like+customizing+the+course+to+fit+their+preferences+%28such+as+selecting+a+project%2C+topic%2C+platform%2C+etc.%29.]]></text>
+      </choice>
+      <choice>
+        <id>q8c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Expect+the+instructor+to+provide+a+very+engaging%2C+structured+environment.]]></text>
+      </choice>
+      <choice>
+        <id>q8d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Need+to+hear+rationale+behind+instructions.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper3</id>
+  <retry>false</retry>
+  <points>14</points>
+  <position>10</position>
+  <page>4</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper9</id>
+    <type>3</type>
+    <points>6</points>
+    <retry>true</retry>
+    <position>11</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[What+are+some+of+the+Gen+Z+traits+that+may+influence+the+applicable+teaching+strategies%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q9a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+prefer+learning+that+is+meaningful%3B+their+work+ethic+is+more+realistic+than+what+Gen+Y+represents.]]></text>
+      </choice>
+      <choice>
+        <id>q9b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+competitive%2C+entrepreneurial%2C+trustworthy%2C+tolerant+and+less+motivated+by+money.]]></text>
+      </choice>
+      <choice>
+        <id>q9c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Gen+Z+learners+are+more+tech-savvy+than+any+previous+generation.]]></text>
+      </choice>
+      <choice>
+        <id>q9d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+fast-paced+in+processing+information+and+materials+and+do+not+hesitate+to+ask+ask+questions]]></text>
+      </choice>
+      <choice>
+        <id>q9e</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+ethnically+less+diverse+than+any+previous+generation.]]></text>
+      </choice>
+      <choice>
+        <id>q9f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+tactile+learners+with+shorter+attention+span.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper10</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>12</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[Learning+is+passive+experience+for+Gen+Z.+This+generation+is+unaccustomed+to+rapid+diffusion+of+information+presented+in+a+graphically+and+technologically+sophisticated+style.]]></question>
+    <choices>
+      <choice>
+        <id>q10a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q10b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper11</id>
+    <type>3</type>
+    <points>6</points>
+    <retry>true</retry>
+    <position>13</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[You+have+more+and+more+Gen+Zs+in+your+classes.+What+are+some+of+the+teaching+tips+that+are+recommended+to+use+when+teaching+them%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q11a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Co-create+content+with+learners]]></text>
+      </choice>
+      <choice>
+        <id>q11b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Utilize+peer+coaching%2C+action+mapping%2C+problem-based+learning%2C+storytelling%2C+and+guided+self-reflection]]></text>
+      </choice>
+      <choice>
+        <id>q11c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Include+microlearning%2C+videos%2C+social+sharing%2C+gamification%2C+and+on-demand+content+in+the+course]]></text>
+      </choice>
+      <choice>
+        <id>q11d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Invite+subject+matter+experts%2C+trainers%2C+and+other+professionals+to+create+high+impact+learning+opportunities]]></text>
+      </choice>
+      <choice>
+        <id>q11e</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Use+in-class+session+as+learning+labs]]></text>
+      </choice>
+      <choice>
+        <id>q11f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Develop+relevant+learning+experiences+that+utilizes+technology]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper4</id>
+  <retry>false</retry>
+  <points>18</points>
+  <position>15</position>
+  <page>5</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper12</id>
+    <type>3</type>
+    <points>6</points>
+    <retry>true</retry>
+    <position>16</position>
+    <page>5</page>
+    <question urlencoding="UTF-8"><![CDATA[What+are+some+of+the+learning+traits+and+preferences+that+can+be+applied+to+classes+where+Hispanic+students+are+present%3F]]></question>
+    <choices>
+      <choice>
+        <id>q12a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Hispanic+students+have+less+respect+to+authority+figures.]]></text>
+      </choice>
+      <choice>
+        <id>q12b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Hispanics+students+wish+to+connect+the+knowledge+learned+in+the+classroom+to+the+home%2C+community%2C+and+professional+environment]]></text>
+      </choice>
+      <choice>
+        <id>q12c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[One+value+that+is+of+paramount+importance+in+most+Hispanic+cultures+is+commitment+to+the+location+where+they+live.]]></text>
+      </choice>
+      <choice>
+        <id>q12d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Students+like+to+learn+on+their+own+without+interacting+with+peers.]]></text>
+      </choice>
+      <choice>
+        <id>q12e</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Hispanic+adolescents+have+a+greater+inclination+to+adopt+their+parents%27+religious+beliefs%2C+lifestyle%2C+and+stereotyped+sex+roles.]]></text>
+      </choice>
+      <choice>
+        <id>q12f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Students+desire+materials+that+are+linguistically+as+well+as+culturally+appropriate.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper13</id>
+    <type>3</type>
+    <points>10</points>
+    <retry>true</retry>
+    <position>17</position>
+    <page>5</page>
+    <question urlencoding="UTF-8"><![CDATA[Camila+is+a+Hispanic+student+who+has+just+transferred+to+your+class+in+the+middle+of+a+semester.+While+introducing+herself%2C+she+says+she+is+bilingual%2C+but+prefers+Spanish+rather+than+English.+After+few+days%2C+you+realize+that+she+seems+discouraged+because+she+is+not+grasping+all+content+during+class+and+may+need+some+help.+Look+at+list+below+and+select+all+methods+%28or+tips%29+that+you+can+use+so+Camila+can+learn+better+in+your+course.]]></question>
+    <choices>
+      <choice>
+        <id>q13a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Refer+her+to+the+Writing+Center+to+improve+her+English+skills.]]></text>
+      </choice>
+      <choice>
+        <id>q13b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Develop+proficiency+in+English+by+providing+Camila+with+rich+language+experiences+that+integrate+speaking%2C+listening%2C+reading%2C+and+writing.]]></text>
+      </choice>
+      <choice>
+        <id>q13c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Offer+learning+materials+that+are+both+in+English+and+Spanish.]]></text>
+      </choice>
+      <choice>
+        <id>q13d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Develop+individual+projects+where+she+can+work+on+her+own+to+catch+up+but+still+demonstrate+the+same+skills+and+knowledge.]]></text>
+      </choice>
+      <choice>
+        <id>q13e</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Tell+her+to+use+Google+Translator+so+that+she+can+become+career+ready+on+her+own+at+her+own+pace.]]></text>
+      </choice>
+      <choice>
+        <id>q13f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Offer+her+videos+that+contain+closed+captioning+to+help+her+with+understanding+the+content.]]></text>
+      </choice>
+      <choice>
+        <id>q13g</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Ask+her+to+turn+in+more+work+in+writing+than+verbally+so+that+she+has+time+to+form+her+thoughts.]]></text>
+      </choice>
+      <choice>
+        <id>q13h</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Emphasize+Camila%27s+learning+style+strengths+and+match+instructional+resources+and+methods+to+her+learning+style+preferences.]]></text>
+      </choice>
+      <choice>
+        <id>q13i</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Decrease+her+anxiety+by+simply+assigning+her+the+grade+she+earned+without+much+feedback+and+constructive+criticism.]]></text>
+      </choice>
+      <choice>
+        <id>q13j</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Provide+examples%2C+demonstrations%2C+and+optional+resources+that+meet+her+needs.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper23</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>18</position>
+    <page>5</page>
+    <question urlencoding="UTF-8"><![CDATA[Establishing+a+welcoming+community+through+frequent+discussions%2C+small+group+work%2C+and+peer-evaluation+activities+help+Hispanics+develop+social%2C+academic%2C+and+communication+skills.]]></question>
+    <choices>
+      <choice>
+        <id>q23a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q23b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper5</id>
+  <retry>false</retry>
+  <points>18</points>
+  <position>19</position>
+  <page>6</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper14</id>
+    <type>3</type>
+    <points>6</points>
+    <retry>true</retry>
+    <position>20</position>
+    <page>6</page>
+    <question urlencoding="UTF-8"><![CDATA[Below+are+some+statements+regarding+international+students.+Select+all+the+statements+that+are+true+for+international+students+in+general.]]></question>
+    <choices>
+      <choice>
+        <id>q14a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Academically%2C+students+arrive+with+positive+and+confident+personal+expectations+of+success.]]></text>
+      </choice>
+      <choice>
+        <id>q14b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+minority+of+the+international+students+expect+a+rewarding+and+enriching+experience.]]></text>
+      </choice>
+      <choice>
+        <id>q14c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[All+international+students+receive+family+support%2C+both+economic+and+psychological.]]></text>
+      </choice>
+      <choice>
+        <id>q14d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[International+students+perceive+career+development+and+job+preparation+as+one+of+their+important+needs.]]></text>
+      </choice>
+      <choice>
+        <id>q14e</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[All+international+students+are+confident+about+their+English+speaking+and+writing+skills.]]></text>
+      </choice>
+      <choice>
+        <id>q14f</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[International+students+are+allowed+to+work+in+this+country+even+outside+of+the+campus+environment.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper24</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>21</position>
+    <page>6</page>
+    <question urlencoding="UTF-8"><![CDATA[International+students+represent+added+value+to+your+courses+and+other+students+as+they+can+share+a+multicultural+perspective+of+the+world+without+having+to+travel+to+all+those+destinations.]]></question>
+    <choices>
+      <choice>
+        <id>q24a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q24b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper16</id>
+    <type>3</type>
+    <points>10</points>
+    <retry>true</retry>
+    <position>22</position>
+    <page>6</page>
+    <question urlencoding="UTF-8"><![CDATA[You+have+some+international+students+in+your+class.+Each+of+then+is+from+a+different+country%2C+and+it+is+their+first+semester+in+the+States.+What+are+some+of+the+practical+tips+that+may+help+faculty+understand+and+educate+them+better+in+their+classes%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q16a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Avoid+interpreting+their+low+engagement+as+disengagement+because+they+may+need+to+absorb+the+information+before+they+feel+confident+to+speak+up.]]></text>
+      </choice>
+      <choice>
+        <id>q16b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Assigns+students+to+groups+so+that+international+students+are+not+picked+last+by+their+peers+due+to+their+language+challenges.]]></text>
+      </choice>
+      <choice>
+        <id>q16c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Keep+saying%2C+%22Your+English+is+already+really+good.%22+This+will+encourage+them.]]></text>
+      </choice>
+      <choice>
+        <id>q16d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Using+Universal+Design+Principles%2C+you+can+promote+language+learning+by+providing+closed+captions+and+transcripts+for+presentations%2C+video%2C+lectures%2C+etc.]]></text>
+      </choice>
+      <choice>
+        <id>q16e</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[You+do+not+have+to+discuss+academic+integrity+policies+in+detail+because+all+country+have+same+levels+of+expectations.]]></text>
+      </choice>
+      <choice>
+        <id>q16f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[You+can+provide+audio+and+visual+supplemental+materials+to+help+students+understand+concepts+and+improve+their+English+listening+and+speaking+skills.]]></text>
+      </choice>
+      <choice>
+        <id>q16g</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Clarifying+American+pop+culture+references+for+international+students+is+not+important+because+they+all+already+know+what+you+are+referring+to.]]></text>
+      </choice>
+      <choice>
+        <id>q16h</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[You+should+use+both+synchronous+and+asynchronous+communication+tools.]]></text>
+      </choice>
+      <choice>
+        <id>q16i</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[You+do+not+have+to+learn+the+names+of+international+students.]]></text>
+      </choice>
+      <choice>
+        <id>q16j</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Incorporate+cultural+differences+into+instruction+and+turn+them+into+teachable+moments.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper6</id>
+  <retry>false</retry>
+  <points>16</points>
+  <position>23</position>
+  <page>7</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper20</id>
+    <type>5</type>
+    <points>4</points>
+    <retry>true</retry>
+    <position>24</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[Match+some+of+the+disabilities+with+its+example.]]></question>
+    <choices>
+      <choice>
+        <targetid>q20a</targetid>
+        <textid>q20_1</textid>
+        <text urlencoding="UTF-8"><![CDATA[Learning+Disability]]></text>
+        <target urlencoding="UTF-8"><![CDATA[dyslexia%2C+dysgraphia]]></target>
+        <value urlencoding="UTF-8"><![CDATA[a]]></value>
+      </choice>
+      <choice>
+        <targetid>q20b</targetid>
+        <textid>q20_2</textid>
+        <text urlencoding="UTF-8"><![CDATA[Physical+Disability]]></text>
+        <target urlencoding="UTF-8"><![CDATA[wheelchair-bound%2C+CP+that+involves+hands%2C+fingers%2C+mobility+issues+as+well+as+permanent+injuries]]></target>
+        <value urlencoding="UTF-8"><![CDATA[c]]></value>
+      </choice>
+      <choice>
+        <targetid>q20c</targetid>
+        <textid>q20_3</textid>
+        <text urlencoding="UTF-8"><![CDATA[Chronic+Medical+Conditions]]></text>
+        <target urlencoding="UTF-8"><![CDATA[congenital+heart+failure%2C+rheumatoid+arthritis%2C+fibromyalgia%2C+psoriasis]]></target>
+        <value urlencoding="UTF-8"><![CDATA[b]]></value>
+      </choice>
+      <choice>
+        <targetid>q20d</targetid>
+        <textid>q20_4</textid>
+        <text urlencoding="UTF-8"><![CDATA[Psychological+Disability]]></text>
+        <target urlencoding="UTF-8"><![CDATA[depression%2C+anxiety]]></target>
+        <value urlencoding="UTF-8"><![CDATA[d]]></value>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper17</id>
+    <type>2</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>25</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[Is+the+statement+below+true+or+false%3F+Not+all+students+who+identify+and+register+with+Student+Services+use+the+accommodation%28s%29+for+which+they+qualify+during+their+academic+career+at+ISU%3F]]></question>
+    <choices>
+      <choice>
+        <id>q17a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[True]]></text>
+      </choice>
+      <choice>
+        <id>q17b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[False]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper18</id>
+    <type>3</type>
+    <points>10</points>
+    <retry>true</retry>
+    <position>26</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[Jeanette%2C+Nicole%2C+Kevin%2C+Hillary+and+Brady+are+some+of+your+students+in+your+class.+Jeanette+and+Nicole+have+intellectual+disabilities%3B+they+have+a+paraprofessional+who+accompanies+them+to+selected+regular+education+classrooms%2C+providing+instructional+support.+Nicole+is+identified+with+socio-emotional+disability+and+receives+special+education+services+for+both+language+arts+and+mathematics.+Kevin+is+diagnosed+with+autism%2C+exhibits+difficulties+in+social+skills%2C+and+is+high+functioning+cognitively.+Hillary+and+Brady+have+specific+learning+disabilities+and+receive+special+education+services+for+both+language+arts+and+mathematics.+What+are+some+of+the+practical+tips+that+you+can+use+in+your+class+to+make+learning+easier+for+them+and+some+other+disabled+students%3F]]></question>
+    <choices>
+      <choice>
+        <id>q18a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Connect+with+disabled+students+enrolled+in+your+courses+and+ask+them+about+their+preferred+instructional%2Flearning+strategies.]]></text>
+      </choice>
+      <choice>
+        <id>q18b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Regarding+course+materials%2C+consider+colors%2C+fonts%2C+and+formats+that+are+easily+viewed+by+students+with+low+vision+or+a+form+of+color+blindness+and+avoid+using+websites+that+have+several+flash-based+visuals+that+may+cause+seizure.]]></text>
+      </choice>
+      <choice>
+        <id>q18c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Post+course+materials%2C+assignments%2C+and+deadlines+with+advanced+notice+because+it+allows+students+time+to+plan+for+accommodations+and+workload.]]></text>
+      </choice>
+      <choice>
+        <id>q18d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Use+multiple+formats+for+instruction+for+delivering+content+because+students+learn+different+ways.+You+can+make+outlines+or+recordings+available+online+or+explain+in+a+video+all+printed+assignments.]]></text>
+      </choice>
+      <choice>
+        <id>q18e</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Prepare+alternative+assignments+because+some+students+may+have+difficulties+with+the+requested+method+of+delivery+such+as+presentation+and+public+speaking.]]></text>
+      </choice>
+      <choice>
+        <id>q18f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Think+of+multiple+ways+students+may+be+able+to+participate+without+feeling+excluded+instead+of+assuming+what+activities+they+can+or+cannot+do.]]></text>
+      </choice>
+      <choice>
+        <id>q18g</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Remove+negative+portrayals+of+the+members+of+the+disabled+population.]]></text>
+      </choice>
+      <choice>
+        <id>q18h</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Encourage+students+to+hide+their+disabilities+at+Student+Disability+Services.]]></text>
+      </choice>
+      <choice>
+        <id>q18i</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Make+disabled+students+feel+like+any+other+student+by+using+positive+reinforcement+and+giving+them+personalized+attention+during+the+learning+process.]]></text>
+      </choice>
+      <choice>
+        <id>q18j</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Follow+universal+design+principles+and+create+assessments+that+offer+options+for+demonstrating+relevant+knowledge+and+skills.+Let+students+choose+the+method+to+deliver+their+representative+project.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <activity>
+    <id>activity-1</id>
+    <type>8</type>
+    <points>4</points>
+    <retry>true</retry>
+    <position>14</position>
+    <page>4</page>
+    <description urlencoding="UTF-8"><![CDATA[Sorting+Activity]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </activity>
+</scoreditems>
+<nonscoreditems>
+  <quizpopper>
+    <id>quizpopper1</id>
+    <type>8</type>
+    <points>0</points>
+    <retry>true</retry>
+    <position>27</position>
+    <page>8</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+your+overall+impression+of+this+lesson%3F+Was+it+useful%3F+What+are+the+strengths+of+it%3F+What+are+the+weaknesses+of+this+lesson%3F+What+would+you+change+to+make+it+more+effective%3F]]></question>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+</nonscoreditems>
+<inlinemedia>
+  <inlineobject>
+    <id>inlinemedia19</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[how-does-gen-z-learn.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia16</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[disability+2.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia13</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[generation+y.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia29</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Gen+y+online.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia28</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8">Created+using+PowToon+--+Free+sign+up+at+http%3A%2F%2Fwww.powtoon.com%2F+.+Make+your+own+animated+videos+and+animated+presentations+for+free.+PowToon+is+a+free+...</dc:description>
+    <dc:title urlencoding="UTF-8"><![CDATA[Teaching+Millennials]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia27</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8">In+this+video%2C+the+AgCareers.com+takes+a+look+at+how+Generation+X+approaches+the+working+world%2C+and+other+issues+of+generational+differences+in+the+workplace.</dc:description>
+    <dc:title urlencoding="UTF-8"><![CDATA[Generation+X+and+the+Issues+of+Generational+Differences+in+the+Workplace]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia24</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Online+Zen+Z.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia9</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8">Learning+Disability+in+Higher+Education+and+the+Professor+Student+Relationship+The+professor-student+relationship+in+higher+education+may+be+one+of+...</dc:description>
+    <dc:title urlencoding="UTF-8"><![CDATA[Learning+Disability+in+Higher+Education...+%7C+Lexie+Garrity+%7C+TEDxVanderbiltUniversity]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia7</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8">What+are+the+challenges+teachers+face+when+teaching+an+international+student%3F+The+following+are+some+helpful+tips+for+the+teacher%2C+the+student%2C+and+the+rest+of+...</dc:description>
+    <dc:title urlencoding="UTF-8"><![CDATA[Tips+for+Teaching+International+Students]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia21</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[International+Students+Spring+2020.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia20</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Hispanic+Students+Spring+2020.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia3</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[FullyOnlineStats_Fall2019.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia2</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[TotalDistanceStats_Fall2019.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia34</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[hispanic+students-2817247_960_720.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia33</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[IMG-20191012-WA0003_upscaled_image_x4.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia32</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8">Whatever+you+need+a+website+for%2C+create+yours+today+with+Wix%3A+https%3A%2F%2Fwww.wix.com%2Fgo%2Finfographics+How+do+millennials+compare+to+those+of+generation+Z%3F+What+...</dc:description>
+    <dc:title urlencoding="UTF-8"><![CDATA[Millennials+vs+Generation+Z+-+How+Do+They+Compare+%26amp%3B+What%26%2339%3Bs+the+Difference%3F]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia30</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Gen+Z+pic.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+</inlinemedia>
+<ContentItems xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <ContentItem>
+        <dc:description urlencoding="UTF-8">Lesson+created+by+SoftChalk</dc:description>
+        <dc:title urlencoding="UTF-8"><![CDATA[Online+Teaching+Certificate+Program]]></dc:title>
+        <dc:creator urlencoding="UTF-8"/>
+        <dc:license>Attribution Non-commercial Share Alike</dc:license>
+        <SubTitle urlencoding="UTF-8"><![CDATA[Knowing+%26amp%3B+Understanding+Your+Online+Learners]]></SubTitle>
+        <TotalPoints>100</TotalPoints>
+        <Language urlencoding="UTF-8">English</Language>
+        <NumberOfPages>8</NumberOfPages>
+        <MainFileName>cimt</MainFileName>
+        <LessonStructureVersion>11.00.01</LessonStructureVersion>
+        <CreatorFirstName urlencoding="UTF-8"/>
+        <CreatorLastName urlencoding="UTF-8"/>
+        <CreatorOrganization urlencoding="UTF-8"/>
+        <CreatorEmail urlencoding="UTF-8"/>
+    </ContentItem>
+</ContentItems>
+</lesson>
