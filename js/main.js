@@ -45,33 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // --- Project filter ---
-  const filterPills = document.querySelectorAll('.filter-pill');
-  const projectCards = document.querySelectorAll('.project-card-wrapper');
-
-  filterPills.forEach(pill => {
-    pill.addEventListener('click', () => {
-      const category = pill.dataset.filter;
-
-      filterPills.forEach(p => p.classList.remove('active'));
-      pill.classList.add('active');
-
-      projectCards.forEach(card => {
-        if (category === 'all' || card.dataset.category === category) {
-          card.style.display = '';
-          requestAnimationFrame(() => {
-            card.style.opacity = '1';
-            card.style.transform = 'scale(1)';
-          });
-        } else {
-          card.style.opacity = '0';
-          card.style.transform = 'scale(0.95)';
-          setTimeout(() => { card.style.display = 'none'; }, 300);
-        }
-      });
-    });
-  });
-
   // --- Scroll reveal (IntersectionObserver) ---
   const revealElements = document.querySelectorAll('.reveal, .reveal-left, .reveal-right');
 
