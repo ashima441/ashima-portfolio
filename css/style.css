@@ -187,18 +187,6 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: var(--shadow-md);
 }
 
-/* --- Accordion --- */
-.additional-projects summary::-webkit-details-marker {
-  display: none;
-}
-.additional-projects[open] .accordion-chevron {
-  transform: rotate(180deg);
-}
-.additional-projects[open] summary {
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-  box-shadow: none;
-}
 
 /* --- Timeline --- */
 .timeline {
