@@ -43,6 +43,12 @@ document.addEventListener('DOMContentLoaded', () => {
     mobileMenu.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', closeMenu);
     });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && mobileMenu.classList.contains('open')) {
+        closeMenu();
+      }
+    });
   }
 
   // --- Scroll reveal (IntersectionObserver) ---
@@ -70,6 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const statNumbers = document.querySelectorAll('.stat-number[data-target]');
 
   if (statNumbers.length > 0 && 'IntersectionObserver' in window) {
+    statNumbers.forEach(el => { el.textContent = '0'; });
     const counterObserver = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
