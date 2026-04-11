@@ -3,6 +3,10 @@
    ============================================ */
 
 /* --- Custom Properties --- */
+/* NOTE: These color values are also defined in the inline Tailwind config
+   (tailwind.config.theme.extend.colors) in every HTML file. If you update
+   colors here, you must also update the Tailwind config in each HTML file
+   to keep them in sync. */
 :root {
   --navy: #1B2A4A;
   --terracotta: #E07A5F;

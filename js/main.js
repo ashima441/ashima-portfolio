@@ -28,12 +28,19 @@ document.addEventListener('DOMContentLoaded', () => {
       mobileMenu.classList.add('open');
       document.body.style.overflow = 'hidden';
       menuToggle.setAttribute('aria-expanded', 'true');
+
+      // Move focus to the close button (or first menu link) when menu opens
+      const firstFocusable = menuClose || mobileMenu.querySelector('a');
+      if (firstFocusable) {
+        firstFocusable.focus();
+      }
     });
 
     const closeMenu = () => {
       mobileMenu.classList.remove('open');
       document.body.style.overflow = '';
       menuToggle.setAttribute('aria-expanded', 'false');
+      menuToggle.focus(); // Return focus to hamburger button
     };
 
     if (menuClose) {
@@ -47,6 +54,32 @@ document.addEventListener('DOMContentLoaded', () => {
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && mobileMenu.classList.contains('open')) {
         closeMenu();
+        return;
+      }
+
+      // Focus trap: only when menu is open and Tab is pressed
+      if (e.key === 'Tab' && mobileMenu.classList.contains('open')) {
+        const focusableEls = mobileMenu.querySelectorAll(
+          'a[href], button, [tabindex]:not([tabindex="-1"])'
+        );
+        if (focusableEls.length === 0) return;
+
+        const firstEl = focusableEls[0];
+        const lastEl = focusableEls[focusableEls.length - 1];
+
+        if (e.shiftKey) {
+          // Shift+Tab: if on first element, wrap to last
+          if (document.activeElement === firstEl) {
+            e.preventDefault();
+            lastEl.focus();
+          }
+        } else {
+          // Tab: if on last element, wrap to first
+          if (document.activeElement === lastEl) {
+            e.preventDefault();
+            firstEl.focus();
+          }
+        }
       }
     });
   }
