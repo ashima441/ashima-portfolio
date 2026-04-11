@@ -153,14 +153,16 @@ document.addEventListener('DOMContentLoaded', () => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           const id = entry.target.id;
-          navLinks.forEach(link => {
-            link.classList.toggle('active', link.getAttribute('href') === `#${id}`);
-          });
+          const matchingLink = Array.from(navLinks).find(link => link.getAttribute('href') === `#${id}`);
+          navLinks.forEach(link => link.classList.remove('active'));
+          if (matchingLink) {
+            matchingLink.classList.add('active');
+          }
         }
       });
     }, {
-      threshold: 0.3,
-      rootMargin: '-80px 0px -50% 0px'
+      threshold: 0.2,
+      rootMargin: '-40% 0px -40% 0px'
     });
 
     sections.forEach(section => sectionObserver.observe(section));
