@@ -145,27 +145,36 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // --- Active nav link highlighting ---
-  const sections = document.querySelectorAll('section[id]');
   const navLinks = document.querySelectorAll('.nav-link[href^="#"]');
 
-  if (sections.length > 0 && navLinks.length > 0) {
-    const sectionObserver = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const id = entry.target.id;
-          const matchingLink = Array.from(navLinks).find(link => link.getAttribute('href') === `#${id}`);
-          navLinks.forEach(link => link.classList.remove('active'));
-          if (matchingLink) {
-            matchingLink.classList.add('active');
-          }
-        }
-      });
-    }, {
-      threshold: 0.2,
-      rootMargin: '-40% 0px -40% 0px'
+  if (navLinks.length > 0) {
+    // Build list of sections that have matching nav links
+    const navSections = [];
+    navLinks.forEach(link => {
+      const id = link.getAttribute('href').substring(1);
+      const section = document.getElementById(id);
+      if (section) navSections.push({ id, el: section, link });
     });
 
-    sections.forEach(section => sectionObserver.observe(section));
+    const highlightNav = () => {
+      const scrollY = window.scrollY + 120; // offset for fixed navbar
+
+      // Find the last section whose top is above the scroll position
+      let current = null;
+      for (const s of navSections) {
+        if (s.el.offsetTop <= scrollY) {
+          current = s;
+        }
+      }
+
+      navLinks.forEach(link => link.classList.remove('active'));
+      if (current) {
+        current.link.classList.add('active');
+      }
+    };
+
+    window.addEventListener('scroll', highlightNav, { passive: true });
+    highlightNav();
   }
 
   // --- Back to top button ---
