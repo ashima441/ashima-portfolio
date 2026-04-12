@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ashimasitaula.com/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/online-teaching.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/krav-maga.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/self-care.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/game-based-learning.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/social-media.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/hio-literacy.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/hio-career-days.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/cimt-657.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/superhero-lesson.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ashimasitaula.com/projects/code-for-fun-python.html</loc>
-    <lastmod>2026-03-01</lastmod>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ashimasitaula.com/projects/zero-to-live.html</loc>
     <lastmod>2026-04-11</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/code-for-fun-python.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/hio-literacy.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/cimt-657.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/online-teaching.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/krav-maga.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/self-care.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/game-based-learning.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/social-media.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/superhero-lesson.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ashimasitaula.com/projects/hio-career-days.html</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.6</priority>
   </url>
 </urlset>
