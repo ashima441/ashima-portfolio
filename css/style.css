@@ -198,53 +198,43 @@ h1, h2, h3, h4, h5, h6 {
 /* --- Timeline --- */
 .timeline {
   position: relative;
+  max-width: 760px;
+  margin: 0 auto;
 }
 
 .timeline::before {
   content: '';
   position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  top: 0;
-  bottom: 0;
+  left: 7px;
+  top: 0.5rem;
+  bottom: 0.5rem;
   width: 2px;
   background: linear-gradient(to bottom, var(--terracotta), var(--gold));
 }
 
 .timeline-item {
   position: relative;
-  width: 50%;
-  padding: 1.5rem;
+  width: 100%;
+  padding-left: 2.5rem;
+  margin-bottom: 1.75rem;
+  text-align: left;
 }
 
-.timeline-item:nth-child(odd) {
-  padding-right: 3rem;
-  text-align: right;
-}
-
-.timeline-item:nth-child(even) {
-  margin-left: 50%;
-  padding-left: 3rem;
+.timeline-item:last-child {
+  margin-bottom: 0;
 }
 
 .timeline-dot {
   position: absolute;
+  left: 0;
+  top: 1.75rem;
   width: 16px;
   height: 16px;
   background: var(--terracotta);
   border: 3px solid white;
   border-radius: 50%;
-  top: 2rem;
   box-shadow: var(--shadow-md);
   z-index: 2;
-}
-
-.timeline-item:nth-child(odd) .timeline-dot {
-  right: -8px;
-}
-
-.timeline-item:nth-child(even) .timeline-dot {
-  left: -8px;
 }
 
 .timeline-card {
@@ -261,26 +251,19 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: var(--shadow-lg);
 }
 
+/* single-rail: normalize reveal direction (markup alternates reveal-left/right) */
+.timeline-item.reveal-right {
+  transform: translateX(-30px);
+}
+
+.timeline-item.reveal-right.visible {
+  transform: translateX(0);
+}
+
 /* Timeline mobile */
 @media (max-width: 768px) {
-  .timeline::before {
-    left: 20px;
-  }
-
-  .timeline-item,
-  .timeline-item:nth-child(odd),
-  .timeline-item:nth-child(even) {
-    width: 100%;
-    margin-left: 0;
-    padding-left: 3.5rem;
-    padding-right: 1rem;
-    text-align: left;
-  }
-
-  .timeline-item:nth-child(odd) .timeline-dot,
-  .timeline-item:nth-child(even) .timeline-dot {
-    left: 12px;
-    right: auto;
+  .timeline-item {
+    padding-left: 2.25rem;
   }
 }
 
