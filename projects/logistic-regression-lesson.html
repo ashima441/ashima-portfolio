@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teaching Model Evaluation to Developers — Ashima Sitaula</title>
+  <meta name="description" content="A five-minute video lesson teaching software developers how to evaluate a trained logistic regression model — storyboard, script, and produced video.">
+  <meta property="og:title" content="Teaching Model Evaluation to Developers — Ashima Sitaula" />
+  <meta property="og:description" content="A five-minute video lesson teaching software developers how to evaluate a trained logistic regression model — storyboard, script, and produced video." />
+  <meta property="og:type" content="website" />
+  <link rel="canonical" href="https://ashimasitaula.com/projects/logistic-regression-lesson.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: { navy: '#1B2A4A', terracotta: '#E07A5F', 'terracotta-dark': '#c9664b', gold: '#F2CC8F', 'off-white': '#FAFAFA', 'warm-gray': '#F0EDE8' },
+          fontFamily: { body: ['Inter', 'sans-serif'], heading: ['Playfair Display', 'serif'] },
+        },
+      },
+    }
+  </script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✦</text></svg>" />
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/animations.css">
+</head>
+<body class="font-body bg-off-white">
+
+  <a href="#main-content" class="skip-to-content">Skip to main content</a>
+
+  <nav class="bg-navy sticky top-0 z-50 shadow-lg" role="navigation" aria-label="Project navigation">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <a href="../index.html" class="text-white font-heading font-bold text-xl">Ashima Sitaula<span class="text-terracotta">,</span> PhD</a>
+        <div class="flex items-center gap-6">
+          <a href="../index.html#projects" class="text-white/80 hover:text-white text-sm font-medium">&larr; All Projects</a>
+          <a href="../assets/resume/Ashima_Sitaula_Resume.pdf" target="_blank" rel="noopener" class="hidden sm:inline-block btn-primary px-4 py-2 rounded-full text-sm font-semibold">Resume</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main-content">
+    <section class="project-hero py-16 lg:py-24">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <span class="tag-pill bg-white/20 text-white text-sm mb-4 inline-block">Technical Curriculum</span>
+        <h1 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">Teaching Model Evaluation to Developers</h1>
+        <p class="text-white/80 text-lg max-w-2xl">A five-minute video lesson on evaluating a trained logistic regression model &mdash; storyboarded, scripted, and produced for software developers who can code but are new to machine learning.</p>
+      </div>
+    </section>
+
+    <section class="py-16 lg:py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid lg:grid-cols-3 gap-12">
+          <div class="lg:col-span-2">
+
+            <h2 class="font-heading text-2xl font-bold text-navy mb-6">The Problem</h2>
+            <p class="text-gray-700 text-lg leading-relaxed mb-6">
+              Machine learning material written for developers usually fails in one of two directions. It either assumes the reader already thinks in linear algebra, or it strips out so much that nothing transfers to real work. The audience I designed for sits precisely in between: software developers who are comfortable with code, math, and abstraction, but who have never trained a model.
+            </p>
+            <p class="text-gray-700 text-lg leading-relaxed mb-10">
+              The brief was narrow on purpose &mdash; one concept, five minutes. Teach how to evaluate a logistic regression model that has already been trained, and stop there.
+            </p>
+
+            <h3 class="font-heading text-xl font-semibold text-navy mb-4">The Design Decision That Mattered</h3>
+            <p class="text-gray-700 text-lg leading-relaxed mb-6">
+              The source material framed model testing as four numbered steps. Following that structure would have been the fast path, and it would have produced a worse lesson.
+            </p>
+            <div class="bg-warm-gray rounded-xl p-6 mb-6 border-l-4 border-terracotta">
+              <p class="text-gray-800 leading-relaxed">
+                The first of those four &ldquo;steps&rdquo; was not a step at all &mdash; it was the inputs: the feature matrix, the labels, and the learned parameters. Those are setup, not action. Presenting them as step one meant a learner had to hold four things in working memory when only three of them were things they would ever <em>do</em>.
+              </p>
+            </div>
+            <p class="text-gray-700 text-lg leading-relaxed mb-6">
+              So I restructured it. Inputs became context established up front. The lesson itself was built around three computational steps &mdash; probabilities, then predictions, then accuracy &mdash; each producing one named output. Three named outputs is a load a learner can carry through a five-minute explanation, and it let the closing recap mirror the opening preview word for word.
+            </p>
+            <p class="text-gray-700 text-lg leading-relaxed mb-10">
+              That is the whole job in miniature: subject-matter accuracy is necessary but not sufficient. Someone has to decide what shape the knowledge takes before a learner meets it.
+            </p>
+
+            <h3 class="font-heading text-xl font-semibold text-navy mb-4">Scope, and What I Deliberately Left Out</h3>
+            <p class="text-gray-700 text-lg leading-relaxed mb-4">
+              Five minutes buys you one idea, taught properly. Everything else has to go somewhere else in the sequence.
+            </p>
+            <div class="grid sm:grid-cols-2 gap-4 mb-10">
+              <div class="bg-white rounded-xl p-5 shadow-sm">
+                <p class="text-sm font-semibold text-navy mb-2">In scope</p>
+                <ul class="space-y-1.5 text-sm text-gray-700">
+                  <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>The three inputs and how they relate to held-out data</li>
+                  <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>Probabilities &rarr; predictions &rarr; accuracy</li>
+                  <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>Reading an accuracy number in context, via two contrasting domains</li>
+                  <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>How that number points to what you change next</li>
+                </ul>
+              </div>
+              <div class="bg-white rounded-xl p-5 shadow-sm">
+                <p class="text-sm font-semibold text-navy mb-2">Deliberately deferred</p>
+                <ul class="space-y-1.5 text-sm text-gray-700">
+                  <li class="flex items-start gap-2"><span class="text-gray-400 font-bold">&#8226;</span>How the model was trained</li>
+                  <li class="flex items-start gap-2"><span class="text-gray-400 font-bold">&#8226;</span>The mechanics of gradient descent</li>
+                  <li class="flex items-start gap-2"><span class="text-gray-400 font-bold">&#8226;</span>Fixing overfitting &mdash; named, then handed to a later lesson</li>
+                </ul>
+              </div>
+            </div>
+
+            <h3 class="font-heading text-xl font-semibold text-navy mb-4">Production</h3>
+            <p class="text-gray-700 text-lg leading-relaxed mb-6">
+              The deliverables were an eight-slide storyboard with full speaker notes, and a produced video under five minutes.
+            </p>
+            <p class="text-gray-700 text-lg leading-relaxed mb-10">
+              The automated slide-to-video conversion dropped the animations, which sounds like a formatting problem and is actually a pedagogical one. During a mathematical explanation, what the learner sees and precisely when they see it <em>is</em> the instruction. I rebuilt the highlights and reveals by hand so each term appeared as it was spoken, not before. Manual video editing was new to me on this project; the decisions driving it were not.
+            </p>
+
+            <h3 class="font-heading text-xl font-semibold text-navy mb-4">Working With AI</h3>
+            <p class="text-gray-700 text-lg leading-relaxed mb-6">
+              I used AI heavily and as a collaborator rather than an author. Claude Code drafted and iterated the script; I pushed back whenever a proposed structure conflicted with what I knew about cognitive load &mdash; the four-steps-into-three restructure came out of exactly that argument. For the visuals, when generated layouts didn't give me the control I needed, I built HTML mockups and converted those into slides instead. Slower than accepting the first output; faster than starting from nothing.
+            </p>
+            <p class="text-gray-700 text-lg leading-relaxed">
+              To make sure the technical content was correct, I used AI as a tutor before using it as a tool &mdash; working through logistic regression with adaptive questioning until I could defend every claim in the script myself. Every instructional and editorial decision stayed with me. That is the distinction I care about: AI compresses production time enormously, and it has no opinion about what a learner can hold in their head.
+            </p>
+          </div>
+
+          <div>
+            <div class="bg-white rounded-xl p-6 shadow-md mb-6">
+              <h3 class="font-heading font-semibold text-lg text-navy mb-4">Project Details</h3>
+              <dl class="space-y-4">
+                <div><dt class="text-sm font-medium text-gray-500">Role</dt><dd class="text-gray-800 mt-1">Instructional Designer &amp; Producer</dd></div>
+                <div><dt class="text-sm font-medium text-gray-500">Audience</dt><dd class="text-gray-800 mt-1">Software developers new to ML</dd></div>
+                <div><dt class="text-sm font-medium text-gray-500">Tools</dt><dd class="flex flex-wrap gap-2 mt-1"><span class="tag-pill text-xs">Claude Code</span><span class="tag-pill text-xs">HTML</span><span class="tag-pill text-xs">Google Slides</span><span class="tag-pill text-xs">Video editing</span></dd></div>
+                <div><dt class="text-sm font-medium text-gray-500">Category</dt><dd class="text-gray-800 mt-1">Technical Curriculum / Video</dd></div>
+                <div><dt class="text-sm font-medium text-gray-500">Year</dt><dd class="text-gray-800 mt-1">2026</dd></div>
+              </dl>
+            </div>
+            <div class="bg-warm-gray rounded-xl p-6 mb-6">
+              <h3 class="font-heading font-semibold text-lg text-navy mb-3">Deliverables</h3>
+              <ul class="space-y-2 text-sm text-gray-700">
+                <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>8-slide storyboard, 16:9, consistent visual system</li>
+                <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>Full speaker notes for every slide</li>
+                <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>Scripted video under five minutes</li>
+                <li class="flex items-start gap-2"><span class="text-terracotta font-bold">&#8226;</span>Hand-edited sequential reveals</li>
+              </ul>
+            </div>
+            <div class="bg-white rounded-xl p-6 shadow-md">
+              <h3 class="font-heading font-semibold text-lg text-navy mb-3">By the Numbers</h3>
+              <dl class="space-y-3">
+                <div class="flex justify-between"><dt class="text-sm text-gray-500">Runtime</dt><dd class="text-navy font-semibold">&lt; 5 min</dd></div>
+                <div class="flex justify-between"><dt class="text-sm text-gray-500">Slides</dt><dd class="text-navy font-semibold">8</dd></div>
+                <div class="flex justify-between"><dt class="text-sm text-gray-500">Concepts taught</dt><dd class="text-navy font-semibold">1</dd></div>
+                <div class="flex justify-between"><dt class="text-sm text-gray-500">Prerequisites</dt><dd class="text-navy font-semibold">Prior lesson</dd></div>
+              </dl>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-8 border-t border-gray-200">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
+        <a href="ai-decoded.html" class="text-navy hover:text-terracotta font-medium inline-flex items-center gap-2">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+          Previous Project
+        </a>
+        <a href="../index.html#projects" class="text-navy hover:text-terracotta font-medium inline-flex items-center gap-2">
+          All Projects
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="bg-navy py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
+        <p class="text-white/50 text-sm">&copy; 2026 Ashima Sitaula. All rights reserved.</p>
+        <div class="flex items-center gap-6">
+          <a href="https://www.linkedin.com/in/ashima-sitaula-phd-a05291112" target="_blank" rel="noopener" class="text-white/50 hover:text-white transition-colors" aria-label="LinkedIn">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          </a>
+          <a href="https://github.com/ashima441" target="_blank" rel="noopener" class="text-white/50 hover:text-white transition-colors" aria-label="GitHub">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/></svg>
+          </a>
+          <a href="mailto:ashima.sitaula@outlook.com" class="text-white/50 hover:text-white transition-colors" aria-label="Email">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="../js/main.js"></script>
+</body>
+</html>
