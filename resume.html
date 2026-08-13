@@ -5,7 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ashima Sitaula, PhD — Resume</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+    /* Self-hosted 2026-08-12. Was an @import from fonts.googleapis.com, which made every PDF
+       build depend on the network: headless Chrome would sometimes print before Inter arrived,
+       fall back to different metrics, and silently produce a resume in the wrong typeface — see
+       build-resumes.py. Google serves Inter as ONE VARIABLE font (all four weight URLs returned
+       the identical file, same MD5), so it is declared once with a weight range rather than four
+       times. Local file, no network, deterministic build. */
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: block;
+      src: url('assets/fonts/Inter-Variable.woff2') format('woff2');
+    }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -14,16 +26,21 @@
       color: #2D3748;
       background: white;
       font-size: 10.5pt;
-      line-height: 1.5;
+      line-height: 1.42;
+    /* Tightened 2026-08-12. Both resumes were spilling a few lines onto a third page ONCE THE
+       WEBFONT ACTUALLY LOADED — Variant B by 18 words, Variant A by 59. The earlier "2 pages"
+       readings were Chrome printing before Inter arrived and falling back to narrower metrics.
+       Fixed typographically rather than by cutting content, because nothing on either page was
+       weak enough to lose over four lines of overflow. */
       max-width: 8.5in;
       margin: 0 auto;
-      padding: 0.5in 0.6in;
+      padding: 0.42in 0.55in;
     }
 
     @media print {
       body { padding: 0; }
       .no-print { display: none; }
-      @page { margin: 0.5in 0.6in; size: letter; }
+      @page { margin: 0.42in 0.55in; size: letter; }
     }
 
     /* Header */
@@ -102,7 +119,7 @@
 
   <h2>Professional Summary</h2>
   <p style="font-size: 10pt; margin-bottom: 4px;">
-    Instructional designer and program leader with 10+ years building scalable education systems across K&ndash;12, higher education, and community organizations &mdash; and a computing degree, which means designing curriculum and then building it rather than handing off a spec. PhD in Curriculum &amp; Instruction with a research focus on technology integration and learner engagement. Currently reaching ~4,000 learners annually across 10+ distributed sites. Translates complex technical goals into modular learning content &mdash; from AI literacy programs and instructor enablement systems to open-source courses built through human-AI collaboration. Manages end-to-end program lifecycles from stakeholder discovery through deployment and data-driven iteration.
+    Instructional designer and program leader who builds scalable, ready-to-teach programs &mdash; curriculum designed to be delivered by other people. 10+ years across K&ndash;12, higher education, and community organizations, plus a computing degree, which means designing curriculum and then building it rather than handing off a spec. PhD in Curriculum &amp; Instruction with a research focus on technology integration and learner engagement. Currently reaching ~4,000 learners annually across 10+ distributed sites. Translates complex technical goals into modular learning content &mdash; from AI literacy programs and instructor enablement systems to open-source courses built through human-AI collaboration.
   </p>
 
   <h2>Experience</h2>
