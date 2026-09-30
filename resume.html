@@ -101,6 +101,14 @@
       cursor: pointer; font-size: 14px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
     .no-print:hover { background: #c9664b; }
+      /* 2026-09-29 — education as ONE LINE PER DEGREE. The old 3-column grid extracted for ATS as
+       "May 2026 / Dec 2020 / Sep 2017 / ISU / ISU / London Met / PhD / MS / BSc" — degree, school and
+       date separated, so a parser could pair them wrongly. A row keeps each degree whole. */
+    .header .contact a, .header .contact .nw { white-space: nowrap; }
+    .edu-row { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1px; font-size: 10pt; }
+    .edu-row .edu-degree { font-weight: 600; color: #1B2A4A; }
+    .edu-row .edu-school { color: #4A5568; }
+    .edu-row .edu-date { font-size: 9pt; color: #E07A5F; font-weight: 600; white-space: nowrap; }
   </style>
 </head>
 <body>
@@ -109,10 +117,9 @@
     <h1>ASHIMA SITAULA, PhD</h1>
     <div class="subtitle">Instructional Designer &amp; Learning Experience Designer | AI Literacy Programs</div>
     <div class="contact">
-      Mountain View, CA
-      <span>|</span> <a href="mailto:ashima.sitaula@outlook.com">ashima.sitaula@outlook.com</a>
-      <span>|</span> <a href="https://ashimasitaula.com">ashimasitaula.com</a>
-      <span>|</span> <a href="https://linkedin.com/in/ashima-sitaula-phd-a05291112">LinkedIn</a>
+      Mountain View, CA<!--PRIVATE-PHONE-->
+      <span>|</span> <a href="mailto:ashima.sitaula@outlook.com">ashima.sitaula@outlook.com</a><br><a href="https://ashimasitaula.com">ashimasitaula.com</a>
+      <span>|</span> <a href="https://linkedin.com/in/ashima-sitaula-phd-a05291112">linkedin.com/in/ashima-sitaula-phd-a05291112</a>
       <span>|</span> <a href="https://github.com/ashima441">GitHub</a>
     </div>
   </div>
@@ -204,23 +211,9 @@
   </div>
 
   <h2>Education</h2>
-  <div class="edu-grid">
-    <div class="edu-item">
-      <div class="edu-date">May 2026</div>
-      <div class="edu-degree">PhD in Curriculum &amp; Instruction</div>
-      <div class="edu-school">Indiana State University</div>
-    </div>
-    <div class="edu-item">
-      <div class="edu-date">Dec 2020</div>
-      <div class="edu-degree">MS in Educational Technology</div>
-      <div class="edu-school">Indiana State University</div>
-    </div>
-    <div class="edu-item">
-      <div class="edu-date">Sep 2017</div>
-      <div class="edu-degree">BSc Hons in Computing (IT)</div>
-      <div class="edu-school">London Metropolitan University</div>
-    </div>
-  </div>
+  <div class="edu-row"><span><span class="edu-degree">PhD in Curriculum &amp; Instruction</span> &mdash; <span class="edu-school">Indiana State University</span></span><span class="edu-date">May 2026</span></div>
+<div class="edu-row"><span><span class="edu-degree">MS in Educational Technology</span> &mdash; <span class="edu-school">Indiana State University</span></span><span class="edu-date">Dec 2020</span></div>
+<div class="edu-row"><span><span class="edu-degree">BSc Hons in Computing (IT)</span> &mdash; <span class="edu-school">London Metropolitan University</span></span><span class="edu-date">Sep 2017</span></div>
 
   <h2>Skills</h2>
   <div class="skills-grid">
