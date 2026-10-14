@@ -5,3 +5,7 @@ CLAUDE.md
 *.swo
 *~
 .env
+
+# Outdated resume and CV: kept locally, never published
+projects-showcase/ASHIMA_SITAULA Resume 2026.pdf
+projects-showcase/CV Ashima Sitaula 2026.docx
