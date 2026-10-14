@@ -96,52 +96,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
     }, {
-      threshold: 0.1,
-      rootMargin: '0px 0px -50px 0px'
+      threshold: 0,
+      // Reveal slightly before an element scrolls into view, so readers never see it half-faded
+      rootMargin: '0px 0px 15% 0px'
     });
 
     revealElements.forEach(el => revealObserver.observe(el));
   } else {
     revealElements.forEach(el => el.classList.add('visible'));
-  }
-
-  // --- Stats counter animation ---
-  const statNumbers = document.querySelectorAll('.stat-number[data-target]');
-
-  if (statNumbers.length > 0 && 'IntersectionObserver' in window) {
-    statNumbers.forEach(el => { el.textContent = '0'; });
-    const counterObserver = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          animateCounter(entry.target);
-          counterObserver.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.5 });
-
-    statNumbers.forEach(el => counterObserver.observe(el));
-  }
-
-  function animateCounter(el) {
-    const target = parseInt(el.dataset.target, 10);
-    const suffix = el.dataset.suffix || '';
-    const duration = 2000;
-    const start = performance.now();
-
-    function update(now) {
-      const elapsed = now - start;
-      const progress = Math.min(elapsed / duration, 1);
-      const eased = 1 - Math.pow(1 - progress, 3);
-      const current = Math.round(target * eased);
-
-      el.textContent = current.toLocaleString() + suffix;
-
-      if (progress < 1) {
-        requestAnimationFrame(update);
-      }
-    }
-
-    requestAnimationFrame(update);
   }
 
   // --- Active nav link highlighting ---
